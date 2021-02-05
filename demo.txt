@@ -13,6 +13,7 @@ i am an engineering student
 
 
 
+<<<<<<< HEAD
 
 
 
@@ -22,3 +23,6 @@ hii bubu
 this is Rakesh..
 
 I am from cuttack
+=======
+i am from Odisha ..you are from where
+>>>>>>> 9483e1e660995fae737fbbe40b018de43bb2208c
